@@ -1,6 +1,6 @@
 # SDL-audio-generator
 
-To compile this Project :
+To compile this project :
 
 gcc generator.c $(pkg-config --cflags --libs sdl2) -lm
 
